@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="model-view-viewmodel:war">
+    <output-path>$PROJECT_DIR$/projekt_design_pattern/model-view-viewmodel/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>model-view-viewmodel</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="model-view-viewmodel.war">
+      <element id="artifact" artifact-name="model-view-viewmodel:war exploded" />
+    </root>
+  </artifact>
+</component>

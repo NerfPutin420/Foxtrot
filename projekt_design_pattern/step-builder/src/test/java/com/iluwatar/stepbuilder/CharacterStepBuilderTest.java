@@ -162,7 +162,7 @@ public class CharacterStepBuilderTest {
         .name("Weak warrior")
         .fighterClass("none")
         .withWeapon("Slingshot")
-        .noAbilities()
+        .noMoreAbilities()
         .build();
 
     assertEquals("Weak warrior", character.getName());
@@ -171,6 +171,23 @@ public class CharacterStepBuilderTest {
     assertNull(character.getAbilities());
     assertNotNull(character.toString());
 
+  }
+
+  @Test
+  void testProgrammer(){
+    final var character = CharacterStepBuilder.newBuilder()
+            .name("David")
+            .fighterClass("programmer")
+            .withWeapon("keyboard")
+            .withAbility("Java programming")
+            .withAbility("spaghetti code")
+            .noMoreAbilities()
+            .build();
+
+    assertEquals("David", character.getName());
+    assertEquals("programmer", character.getFighterClass());
+    assertEquals("keyboard", character.getWeapon());
+    assertNotNull(character.getAbilities());
   }
 
 }

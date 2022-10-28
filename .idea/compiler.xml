@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="event-aggregator" />
+        <module name="cqrs" />
+        <module name="value-object" />
+        <module name="facade" />
+        <module name="reader-writer-lock" />
+        <module name="repository" />
+        <module name="observer" />
+        <module name="master-worker-pattern" />
+        <module name="iterator" />
+        <module name="special-case" />
+        <module name="active-object" />
+        <module name="composite" />
+        <module name="property" />
+        <module name="resource-acquisition-is-initialization" />
+        <module name="state" />
+        <module name="monad" />
+        <module name="separated-interface" />
+        <module name="factory-kit" />
+        <module name="eip-splitter" />
+        <module name="adapter" />
+        <module name="filterer" />
+        <module name="module" />
+        <module name="service-to-worker" />
+        <module name="monostate" />
+        <module name="interpreter" />
+        <module name="step-builder" />
+        <module name="proxy" />
+        <module name="eip-aggregator" />
+        <module name="intercepting-filter" />
+        <module name="bridge" />
+        <module name="front-controller" />
+        <module name="service-locator" />
+        <module name="bytecode" />
+        <module name="unit-of-work" />
+        <module name="template-method" />
+        <module name="decorator" />
+        <module name="combinator" />
+        <module name="async-method-invocation" />
+        <module name="event-driven-architecture" />
+        <module name="data-mapper" />
+        <module name="subclass-sandbox" />
+        <module name="transaction-script" />
+        <module name="naked-objects-dom" />
+        <module name="typeobjectpattern" />
+        <module name="eip-publish-subscribe" />
+        <module name="data-bus" />
+        <module name="event-sourcing" />
+        <module name="flyweight" />
+        <module name="event-asynchronous" />
+        <module name="factory-method" />
+        <module name="leader-election" />
+        <module name="servant" />
+        <module name="inventory-microservice" />
+        <module name="partial-response" />
+        <module name="builder" />
+        <module name="double-buffer" />
+        <module name="data-locality" />
+        <module name="strangler" />
+        <module name="private-class-data" />
+        <module name="model-view-controller" />
+        <module name="serverless" />
+        <module name="null-object" />
+        <module name="naked-objects-webapp" />
+        <module name="tolerant-reader" />
+        <module name="prototype" />
+        <module name="producer-consumer" />
+        <module name="abstract-document" />
+        <module name="pipeline" />
+        <module name="execute-around" />
+        <module name="mute-idiom" />
+        <module name="lazy-loading" />
+        <module name="game-loop" />
+        <module name="event-queue" />
+        <module name="leader-followers" />
+        <module name="multiton" />
+        <module name="dependency-injection" />
+        <module name="converter" />
+        <module name="poison-pill" />
+        <module name="circuit-breaker" />
+        <module name="promise" />
+        <module name="model-view-viewmodel" />
+        <module name="spatial-partition" />
+        <module name="caching" />
+        <module name="collection-pipeline" />
+        <module name="sample-application" />
+        <module name="arrange-act-assert" />
+        <module name="presentation" />
+        <module name="price-microservice" />
+        <module name="commander" />
+        <module name="dao" />
+        <module name="model-view-presenter" />
+        <module name="feature-toggle" />
+        <module name="queue-load-leveling" />
+        <module name="layers" />
+        <module name="trampoline" />
+        <module name="saga" />
+        <module name="lockable-object" />
+        <module name="information-microservice" />
+        <module name="parameter-object" />
+        <module name="half-sync-half-async" />
+        <module name="metadata-mapping" />
+        <module name="extension-objects" />
+        <module name="role-object" />
+        <module name="memento" />
+        <module name="thread-pool" />
+        <module name="abstract-factory" />
+        <module name="service-layer" />
+        <module name="api-gateway-service" />
+        <module name="marker" />
+        <module name="guarded-suspension" />
+        <module name="mediator" />
+        <module name="visitor" />
+        <module name="hexagonal" />
+        <module name="update-method" />
+        <module name="composite-view" />
+        <module name="business-delegate" />
+        <module name="reactor" />
+        <module name="test-automation" />
+        <module name="naked-objects-fixture" />
+        <module name="double-dispatch" />
+        <module name="eip-message-channel" />
+        <module name="throttling" />
+        <module name="object-mother" />
+        <module name="image-microservice" />
+        <module name="flux" />
+        <module name="chain-of-responsibility" />
+        <module name="retry" />
+        <module name="twin" />
+        <module name="singleton" />
+        <module name="registry" />
+        <module name="factory" />
+        <module name="naked-objects-integtests" />
+        <module name="aggregator-service" />
+        <module name="double-checked-locking" />
+        <module name="eip-wire-tap" />
+        <module name="priority-queue" />
+        <module name="balking" />
+        <module name="domain-model" />
+        <module name="specification" />
+        <module name="fluentinterface" />
+        <module name="monitor" />
+        <module name="command" />
+        <module name="sharding" />
+        <module name="data-transfer-object" />
+        <module name="table-module" />
+        <module name="composite-entity" />
+        <module name="object-pool" />
+        <module name="ambassador" />
+        <module name="dirty-flag" />
+        <module name="acyclic-visitor" />
+        <module name="callback" />
+        <module name="tls" />
+        <module name="strategy" />
+        <module name="delegation" />
+        <module name="version-number" />
+        <module name="fanout-fanin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="abstract-document" target="11" />
+      <module name="abstract-factory" target="11" />
+      <module name="active-object" target="11" />
+      <module name="acyclic-visitor" target="11" />
+      <module name="adapter" target="11" />
+      <module name="aggregator-microservices" target="1.5" />
+      <module name="aggregator-service" target="11" />
+      <module name="ambassador" target="11" />
+      <module name="api-gateway" target="1.5" />
+      <module name="api-gateway-service" target="11" />
+      <module name="arrange-act-assert" target="11" />
+      <module name="async-method-invocation" target="11" />
+      <module name="balking" target="11" />
+      <module name="bridge" target="11" />
+      <module name="builder" target="11" />
+      <module name="business-delegate" target="11" />
+      <module name="bytecode" target="11" />
+      <module name="caching" target="11" />
+      <module name="callback" target="11" />
+      <module name="chain-of-responsibility" target="11" />
+      <module name="circuit-breaker" target="11" />
+      <module name="collection-pipeline" target="11" />
+      <module name="combinator" target="11" />
+      <module name="command" target="11" />
+      <module name="commander" target="11" />
+      <module name="composite" target="11" />
+      <module name="composite-entity" target="11" />
+      <module name="composite-view" target="11" />
+      <module name="converter" target="11" />
+      <module name="cqrs" target="11" />
+      <module name="dao" target="11" />
+      <module name="data-bus" target="11" />
+      <module name="data-locality" target="11" />
+      <module name="data-mapper" target="11" />
+      <module name="data-transfer-object" target="11" />
+      <module name="decorator" target="11" />
+      <module name="delegation" target="11" />
+      <module name="dependency-injection" target="11" />
+      <module name="dirty-flag" target="11" />
+      <module name="domain-model" target="11" />
+      <module name="double-buffer" target="11" />
+      <module name="double-checked-locking" target="11" />
+      <module name="double-dispatch" target="11" />
+      <module name="eip-aggregator" target="11" />
+      <module name="eip-message-channel" target="11" />
+      <module name="eip-publish-subscribe" target="11" />
+      <module name="eip-splitter" target="11" />
+      <module name="eip-wire-tap" target="11" />
+      <module name="event-aggregator" target="11" />
+      <module name="event-asynchronous" target="11" />
+      <module name="event-driven-architecture" target="11" />
+      <module name="event-queue" target="11" />
+      <module name="event-sourcing" target="11" />
+      <module name="execute-around" target="11" />
+      <module name="extension-objects" target="11" />
+      <module name="facade" target="11" />
+      <module name="factory" target="11" />
+      <module name="factory-kit" target="11" />
+      <module name="factory-method" target="11" />
+      <module name="fanout-fanin" target="11" />
+      <module name="feature-toggle" target="11" />
+      <module name="filterer" target="11" />
+      <module name="fluentinterface" target="11" />
+      <module name="flux" target="11" />
+      <module name="flyweight" target="11" />
+      <module name="front-controller" target="11" />
+      <module name="game-loop" target="11" />
+      <module name="guarded-suspension" target="11" />
+      <module name="half-sync-half-async" target="11" />
+      <module name="hexagonal" target="11" />
+      <module name="image-microservice" target="11" />
+      <module name="information-microservice" target="11" />
+      <module name="intercepting-filter" target="11" />
+      <module name="interpreter" target="11" />
+      <module name="inventory-microservice" target="11" />
+      <module name="iterator" target="11" />
+      <module name="java-design-patterns" target="1.5" />
+      <module name="layers" target="11" />
+      <module name="lazy-loading" target="11" />
+      <module name="leader-election" target="11" />
+      <module name="leader-followers" target="11" />
+      <module name="lockable-object" target="11" />
+      <module name="marker" target="11" />
+      <module name="master-worker-pattern" target="11" />
+      <module name="mediator" target="11" />
+      <module name="memento" target="11" />
+      <module name="metadata-mapping" target="11" />
+      <module name="model-view-controller" target="11" />
+      <module name="model-view-presenter" target="11" />
+      <module name="model-view-viewmodel" target="11" />
+      <module name="module" target="11" />
+      <module name="monad" target="11" />
+      <module name="monitor" target="11" />
+      <module name="monostate" target="11" />
+      <module name="multiton" target="11" />
+      <module name="mute-idiom" target="11" />
+      <module name="naked-objects" target="11" />
+      <module name="naked-objects-dom" target="1.8" />
+      <module name="naked-objects-fixture" target="11" />
+      <module name="naked-objects-integtests" target="11" />
+      <module name="naked-objects-webapp" target="11" />
+      <module name="null-object" target="11" />
+      <module name="object-mother" target="11" />
+      <module name="object-pool" target="11" />
+      <module name="observer" target="11" />
+      <module name="page-object" target="11" />
+      <module name="parameter-object" target="11" />
+      <module name="partial-response" target="11" />
+      <module name="pipeline" target="11" />
+      <module name="poison-pill" target="11" />
+      <module name="presentation" target="11" />
+      <module name="price-microservice" target="11" />
+      <module name="priority-queue" target="11" />
+      <module name="private-class-data" target="11" />
+      <module name="producer-consumer" target="11" />
+      <module name="promise" target="11" />
+      <module name="property" target="11" />
+      <module name="prototype" target="11" />
+      <module name="proxy" target="11" />
+      <module name="queue-load-leveling" target="11" />
+      <module name="reactor" target="11" />
+      <module name="reader-writer-lock" target="11" />
+      <module name="registry" target="11" />
+      <module name="repository" target="11" />
+      <module name="resource-acquisition-is-initialization" target="11" />
+      <module name="retry" target="11" />
+      <module name="role-object" target="11" />
+      <module name="saga" target="11" />
+      <module name="sample-application" target="11" />
+      <module name="separated-interface" target="11" />
+      <module name="servant" target="11" />
+      <module name="serverless" target="11" />
+      <module name="service-layer" target="11" />
+      <module name="service-locator" target="11" />
+      <module name="service-to-worker" target="11" />
+      <module name="sharding" target="11" />
+      <module name="singleton" target="11" />
+      <module name="spatial-partition" target="11" />
+      <module name="special-case" target="11" />
+      <module name="specification" target="11" />
+      <module name="state" target="11" />
+      <module name="step-builder" target="11" />
+      <module name="strangler" target="11" />
+      <module name="strategy" target="11" />
+      <module name="subclass-sandbox" target="11" />
+      <module name="table-module" target="11" />
+      <module name="template-method" target="11" />
+      <module name="test-automation" target="11" />
+      <module name="thread-pool" target="11" />
+      <module name="throttling" target="11" />
+      <module name="tls" target="11" />
+      <module name="tolerant-reader" target="11" />
+      <module name="trampoline" target="11" />
+      <module name="transaction-script" target="11" />
+      <module name="twin" target="11" />
+      <module name="typeobjectpattern" target="11" />
+      <module name="unit-of-work" target="11" />
+      <module name="update-method" target="11" />
+      <module name="value-object" target="11" />
+      <module name="version-number" target="11" />
+      <module name="visitor" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

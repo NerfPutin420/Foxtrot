@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="naked-objects-webapp:war">
+    <output-path>$PROJECT_DIR$/projekt_design_pattern/naked-objects/webapp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>naked-objects-webapp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="simpleapp.war">
+      <element id="artifact" artifact-name="naked-objects-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
