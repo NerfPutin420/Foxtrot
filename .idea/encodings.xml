@@ -2,103 +2,62 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/abstract-document/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/abstract-document/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/abstract-factory/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/abstract-factory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/active-object/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/active-object/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/acyclic-visitor/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/acyclic-visitor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/adapter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/adapter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/aggregator-microservices/aggregator-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/aggregator-microservices/aggregator-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/aggregator-microservices/information-microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/aggregator-microservices/information-microservice/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/aggregator-microservices/inventory-microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/aggregator-microservices/inventory-microservice/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/aggregator-microservices/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/aggregator-microservices/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/ambassador/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/ambassador/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/api-gateway/api-gateway-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/api-gateway/api-gateway-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/api-gateway/image-microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/api-gateway/image-microservice/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/api-gateway/price-microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/api-gateway/price-microservice/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/api-gateway/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/api-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/arrange-act-assert/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/arrange-act-assert/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/async-method-invocation/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/async-method-invocation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/balking/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/balking/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/bridge/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/bridge/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/builder/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/builder/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/business-delegate/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/business-delegate/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/bytecode/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/bytecode/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/caching/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/caching/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/callback/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/callback/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/chain-of-responsibility/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/chain-of-responsibility/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/circuit-breaker/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/circuit-breaker/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/collection-pipeline/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/collection-pipeline/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/combinator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/combinator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/command/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/command/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/commander/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/commander/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/composite-entity/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/composite-entity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/composite-view/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/composite-view/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/composite/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/composite/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/converter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/converter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/cqrs/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/cqrs/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/dao/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/dao/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/data-bus/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/data-bus/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/data-locality/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/data-locality/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/data-mapper/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/data-mapper/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/data-transfer-object/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/data-transfer-object/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/decorator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/decorator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/delegation/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/delegation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/dependency-injection/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/dependency-injection/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/dirty-flag/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/dirty-flag/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/domain-model/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/domain-model/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/double-buffer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/double-buffer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/double-checked-locking/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/double-checked-locking/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/double-dispatch/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/double-dispatch/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-aggregator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-aggregator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-message-channel/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-message-channel/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-publish-subscribe/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-publish-subscribe/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-splitter/src/main/java" charset="UTF-8" />
@@ -106,222 +65,118 @@
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-wire-tap/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/eip-wire-tap/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-aggregator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-aggregator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-asynchronous/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-asynchronous/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-driven-architecture/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-driven-architecture/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-queue/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-queue/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-sourcing/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/event-sourcing/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/execute-around/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/execute-around/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/extension-objects/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/extension-objects/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/facade/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/facade/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/factory-kit/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/factory-kit/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/factory-method/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/factory-method/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/factory/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/factory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/fanout-fanin/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/fanout-fanin/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/feature-toggle/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/feature-toggle/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/filterer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/filterer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/fluentinterface/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/fluentinterface/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/flux/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/flux/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/flyweight/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/flyweight/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/front-controller/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/front-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/game-loop/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/game-loop/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/guarded-suspension/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/guarded-suspension/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/half-sync-half-async/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/half-sync-half-async/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/hexagonal/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/hexagonal/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/intercepting-filter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/intercepting-filter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/interpreter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/interpreter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/iterator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/iterator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/layers/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/layers/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/lazy-loading/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/lazy-loading/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/leader-election/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/leader-election/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/leader-followers/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/leader-followers/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/lockable-object/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/lockable-object/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/marker/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/marker/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/master-worker-pattern/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/master-worker-pattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/mediator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/mediator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/memento/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/memento/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/metadata-mapping/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/metadata-mapping/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/model-view-controller/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/model-view-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/model-view-presenter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/model-view-presenter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/model-view-viewmodel/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/model-view-viewmodel/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/module/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/module/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/monad/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/monad/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/monitor/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/monitor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/monostate/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/monostate/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/multiton/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/multiton/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/mute-idiom/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/mute-idiom/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/dom/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/dom/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/fixture/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/fixture/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/integtests/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/integtests/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/webapp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/naked-objects/webapp/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/null-object/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/null-object/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/object-mother/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/object-mother/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/object-pool/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/object-pool/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/observer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/observer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/page-object/sample-application/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/page-object/sample-application/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/page-object/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/page-object/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/page-object/test-automation/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/page-object/test-automation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/parameter-object/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/parameter-object/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/partial-response/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/partial-response/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/pipeline/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/pipeline/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/poison-pill/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/poison-pill/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/presentation/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/presentation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/priority-queue/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/priority-queue/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/private-class-data/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/private-class-data/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/producer-consumer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/producer-consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/promise/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/promise/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/property/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/property/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/prototype/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/prototype/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/proxy/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/proxy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/queue-load-leveling/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/queue-load-leveling/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/reactor/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/reactor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/reader-writer-lock/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/reader-writer-lock/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/registry/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/registry/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/repository/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/repository/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/resource-acquisition-is-initialization/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/resource-acquisition-is-initialization/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/retry/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/retry/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/role-object/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/role-object/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/saga/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/saga/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/separated-interface/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/separated-interface/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/servant/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/servant/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/serverless/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/serverless/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/service-layer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/service-layer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/service-locator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/service-locator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/service-to-worker/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/service-to-worker/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/sharding/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/sharding/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/singleton/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/singleton/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/spatial-partition/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/spatial-partition/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/special-case/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/special-case/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/specification/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/specification/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/state/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/state/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/step-builder/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/step-builder/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/strangler/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/strangler/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/strategy/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/strategy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/subclass-sandbox/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/subclass-sandbox/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/table-module/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/table-module/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/template-method/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/template-method/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/thread-pool/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/thread-pool/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/throttling/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/throttling/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/tls/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/tls/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/tolerant-reader/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/tolerant-reader/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/trampoline/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/trampoline/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/transaction-script/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/transaction-script/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/twin/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/twin/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/typeobjectpattern/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/typeobjectpattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/unit-of-work/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/unit-of-work/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/update-method/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/update-method/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/value-object/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/value-object/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/version-number/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/version-number/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/projekt_design_pattern/visitor/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/projekt_design_pattern/visitor/src/main/resources" charset="UTF-8" />
   </component>
 </project>
