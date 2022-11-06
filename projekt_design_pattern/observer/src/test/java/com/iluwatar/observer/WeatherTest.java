@@ -75,6 +75,7 @@ public class WeatherTest {
     weather.timePasses();
     assertEquals("The weather changed to windy.", appender.getLastMessage());
 
+
     verifyNoMoreInteractions(observer);
     assertEquals(2, appender.getLogSize());
   }
