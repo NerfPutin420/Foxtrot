@@ -13,23 +13,23 @@
         <module name="facade" />
         <module name="reader-writer-lock" />
         <module name="repository" />
-        <module name="observer" />
         <module name="master-worker-pattern" />
+        <module name="observer" />
         <module name="iterator" />
         <module name="special-case" />
         <module name="active-object" />
         <module name="composite" />
         <module name="property" />
         <module name="resource-acquisition-is-initialization" />
-        <module name="monad" />
-        <module name="separated-interface" />
         <module name="state" />
+        <module name="separated-interface" />
+        <module name="monad" />
         <module name="factory-kit" />
         <module name="eip-splitter" />
         <module name="adapter" />
         <module name="filterer" />
-        <module name="module" />
         <module name="service-to-worker" />
+        <module name="module" />
         <module name="monostate" />
         <module name="interpreter" />
         <module name="step-builder" />
@@ -42,8 +42,8 @@
         <module name="bytecode" />
         <module name="template-method" />
         <module name="unit-of-work" />
-        <module name="decorator" />
         <module name="combinator" />
+        <module name="decorator" />
         <module name="data-mapper" />
         <module name="async-method-invocation" />
         <module name="event-driven-architecture" />
@@ -52,9 +52,9 @@
         <module name="typeobjectpattern" />
         <module name="naked-objects-dom" />
         <module name="eip-publish-subscribe" />
+        <module name="flyweight" />
         <module name="data-bus" />
         <module name="event-sourcing" />
-        <module name="flyweight" />
         <module name="event-asynchronous" />
         <module name="leader-election" />
         <module name="factory-method" />
@@ -67,8 +67,8 @@
         <module name="strangler" />
         <module name="private-class-data" />
         <module name="model-view-controller" />
-        <module name="null-object" />
         <module name="serverless" />
+        <module name="null-object" />
         <module name="naked-objects-webapp" />
         <module name="tolerant-reader" />
         <module name="prototype" />
@@ -85,25 +85,25 @@
         <module name="dependency-injection" />
         <module name="converter" />
         <module name="poison-pill" />
-        <module name="promise" />
         <module name="circuit-breaker" />
-        <module name="model-view-viewmodel" />
+        <module name="promise" />
         <module name="spatial-partition" />
+        <module name="model-view-viewmodel" />
         <module name="collection-pipeline" />
         <module name="sample-application" />
         <module name="caching" />
         <module name="arrange-act-assert" />
         <module name="presentation" />
         <module name="price-microservice" />
-        <module name="model-view-presenter" />
-        <module name="feature-toggle" />
         <module name="dao" />
         <module name="commander" />
+        <module name="model-view-presenter" />
+        <module name="feature-toggle" />
         <module name="queue-load-leveling" />
         <module name="layers" />
         <module name="trampoline" />
-        <module name="saga" />
         <module name="lockable-object" />
+        <module name="saga" />
         <module name="information-microservice" />
         <module name="parameter-object" />
         <module name="metadata-mapping" />
@@ -119,9 +119,9 @@
         <module name="guarded-suspension" />
         <module name="mediator" />
         <module name="visitor" />
-        <module name="hexagonal" />
         <module name="update-method" />
         <module name="composite-view" />
+        <module name="hexagonal" />
         <module name="business-delegate" />
         <module name="reactor" />
         <module name="test-automation" />
@@ -129,8 +129,8 @@
         <module name="double-dispatch" />
         <module name="eip-message-channel" />
         <module name="throttling" />
-        <module name="object-mother" />
         <module name="image-microservice" />
+        <module name="object-mother" />
         <module name="flux" />
         <module name="chain-of-responsibility" />
         <module name="twin" />
@@ -140,19 +140,19 @@
         <module name="registry" />
         <module name="naked-objects-integtests" />
         <module name="aggregator-service" />
+        <module name="priority-queue" />
         <module name="domain-model" />
-        <module name="eip-wire-tap" />
         <module name="double-checked-locking" />
         <module name="balking" />
-        <module name="priority-queue" />
+        <module name="eip-wire-tap" />
         <module name="specification" />
-        <module name="fluentinterface" />
         <module name="monitor" />
+        <module name="fluentinterface" />
         <module name="sharding" />
         <module name="command" />
         <module name="data-transfer-object" />
-        <module name="table-module" />
         <module name="composite-entity" />
+        <module name="table-module" />
         <module name="ambassador" />
         <module name="object-pool" />
         <module name="dirty-flag" />
@@ -263,7 +263,7 @@
       <module name="multiton" target="11" />
       <module name="mute-idiom" target="11" />
       <module name="naked-objects" target="11" />
-      <module name="naked-objects-dom" target="1.8" />
+      <module name="naked-objects-dom" target="8" />
       <module name="naked-objects-fixture" target="11" />
       <module name="naked-objects-integtests" target="11" />
       <module name="naked-objects-webapp" target="11" />
