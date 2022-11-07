@@ -24,9 +24,7 @@
  */
 package com.iluwatar.observer;
 
-/**
- * Hobbit interface.
- */
+
 public interface Hobbit {
 
     String getDescription();
