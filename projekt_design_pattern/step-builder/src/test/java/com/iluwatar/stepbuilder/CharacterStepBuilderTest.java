@@ -195,7 +195,7 @@ public class CharacterStepBuilderTest {
     final var character = CharacterStepBuilder.newBuilder()
             .name("Sonar")
             .fighterClass("programmer")
-            .withWeapon("RAM")
+            .withWeapon("ROM")
             .withAbility("Analise")
             .withAbility("spaghetti code")
             .noMoreAbilities()
@@ -203,7 +203,7 @@ public class CharacterStepBuilderTest {
 
     assertEquals("Sonar", character.getName());
     assertEquals("programmer", character.getFighterClass());
-    assertEquals("RAM", character.getWeapon());
+    assertEquals("ROM", character.getWeapon());
     assertNotNull(character.getAbilities());
   }
 
