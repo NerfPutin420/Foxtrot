@@ -45,7 +45,7 @@ class SimpleThreatAwareSystemTest {
         .by(threat -> threat.type() == ThreatType.ROOTKIT);
 
     //then
-    assertEquals(rootkitThreatAwareSystem.threats().size(), 1);
+    assertEquals(1, rootkitThreatAwareSystem.threats().size());
     assertEquals(rootkitThreatAwareSystem.threats().get(0), rootkit);
   }
 }

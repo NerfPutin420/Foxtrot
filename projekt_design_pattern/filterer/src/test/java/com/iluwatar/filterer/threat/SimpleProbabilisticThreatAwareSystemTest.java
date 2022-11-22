@@ -46,7 +46,7 @@ class SimpleProbabilisticThreatAwareSystemTest {
         .by(probableThreat -> Double.compare(probableThreat.probability(), 0.99) == 0);
 
     //then
-    assertEquals(filtered.threats().size(), 1);
+    assertEquals(1, filtered.threats().size());
     assertEquals(filtered.threats().get(0), trojan);
   }
 }
