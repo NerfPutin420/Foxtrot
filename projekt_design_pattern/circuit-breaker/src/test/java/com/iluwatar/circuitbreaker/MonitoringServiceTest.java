@@ -38,7 +38,7 @@ class MonitoringServiceTest {
   void testLocalResponse() {
     var monitoringService = new MonitoringService(null,null);
     var response = monitoringService.localResourceResponse();
-    assertEquals(response, "Local Service is working");
+    assertEquals("Local Service is working", response);
   }
 
   @Test
@@ -51,7 +51,7 @@ class MonitoringServiceTest {
     var monitoringService = new MonitoringService(delayedServiceCircuitBreaker,null);
     //Set time in past to make the server work
     var response = monitoringService.delayedServiceResponse();
-    assertEquals(response, "Delayed service is working");
+    assertEquals("Delayed service is working", response);
   }
 
   @Test
@@ -63,7 +63,7 @@ class MonitoringServiceTest {
     var monitoringService = new MonitoringService(delayedServiceCircuitBreaker,null);
     //Set time as current time as initially server fails
     var response = monitoringService.delayedServiceResponse();
-    assertEquals(response, "Delayed service is down");
+    assertEquals("Delayed service is down", response);
   }
 
   @Test
@@ -75,6 +75,6 @@ class MonitoringServiceTest {
     var monitoringService = new MonitoringService(delayedServiceCircuitBreaker,null);
     //Set time as current time as initially server fails
     var response = monitoringService.delayedServiceResponse();
-    assertEquals(response, "Quick Service is working");
+    assertEquals("Quick Service is working", response);
   }
 }
