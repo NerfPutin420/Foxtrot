@@ -63,6 +63,7 @@ class DwarvenGoldmineFacadeTest {
    * <p>
    * See if the workers are doing what's expected from them on each step.
    */
+
   @Test
   void testFullWorkDay() {
     final var goldMine = new DwarvenGoldmineFacade();
