@@ -36,7 +36,7 @@ public abstract class ShardManager {
 
   protected Map<Integer, Shard> shardMap;
 
-  public ShardManager() {
+  protected ShardManager() {
     shardMap = new HashMap<>();
   }
 
