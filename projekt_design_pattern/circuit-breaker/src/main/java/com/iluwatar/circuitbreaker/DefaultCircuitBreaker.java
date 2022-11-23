@@ -31,7 +31,7 @@ package com.iluwatar.circuitbreaker;
  */
 public class DefaultCircuitBreaker implements CircuitBreaker {
 
-  private final long timeout;
+  protected final long timeout;
   private final long retryTimePeriod;
   private final RemoteService service;
   long lastFailureTime;

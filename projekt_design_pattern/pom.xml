@@ -35,6 +35,7 @@
   <name>Java Design Patterns</name>
   <description>Java Design Patterns</description>
   <properties>
+    <sonar.qualitygate.wait>true</sonar.qualitygate.wait>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar-maven-plugin.version>3.8.0.2131</sonar-maven-plugin.version>
     <hibernate.version>5.2.18.Final</hibernate.version>

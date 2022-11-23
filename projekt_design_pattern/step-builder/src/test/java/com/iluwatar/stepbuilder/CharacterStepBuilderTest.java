@@ -190,4 +190,21 @@ public class CharacterStepBuilderTest {
     assertNotNull(character.getAbilities());
   }
 
+  @Test
+  void testSonar(){
+    final var character = CharacterStepBuilder.newBuilder()
+            .name("Sonar")
+            .fighterClass("programmer")
+            .withWeapon("ROM")
+            .withAbility("Analise")
+            .withAbility("spaghetti code")
+            .noMoreAbilities()
+            .build();
+
+    assertEquals("Sonar", character.getName());
+    assertEquals("programmer", character.getFighterClass());
+    assertEquals("ROM", character.getWeapon());
+    assertNotNull(character.getAbilities());
+  }
+
 }
